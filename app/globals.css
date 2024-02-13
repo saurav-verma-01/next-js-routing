@@ -13,7 +13,9 @@ body {
   width: 100%;
   overflow: hidden;
 }
-
+a {
+  color: inherit;
+}
 main {
   padding: 2rem;
   display: flex;
